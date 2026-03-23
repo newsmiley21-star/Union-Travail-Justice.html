@@ -139,7 +139,7 @@ const App = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-slate-800">Suivi en Temps Réel</h4>
-                    <p className="text-sm text-slate-600">Les données sont synchronisées avec vos pages GitHub Pages.</p>
+                    <p className="text-sm text-slate-600">Les données sont synchronisées avec le serveur CT241.</p>
                   </div>
                 </div>
               </div>
@@ -177,7 +177,7 @@ const App = () => {
 
       <main className="max-w-6xl mx-auto px-4 pb-12">
         <div className="mb-10 text-center md:text-left">
-          <h2 className="text-xl font-semibold text-slate-700 mb-2">Tableau de bord principal</h2>
+          <h2 className="text-xl font-semibold text-slate-700 mb-2">Acceuil principal</h2>
           <p className="text-slate-500">Sélectionnez le module opérationnel nécessaire.</p>
         </div>
 
