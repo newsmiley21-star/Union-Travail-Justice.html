@@ -239,7 +239,7 @@
 
         const apps = [
             { 
-                title: "Commandes", 
+                title: "Commander", 
                 url: "https://newsmiley21-star.github.io/commandes.html", 
                 icon: "shopping-bag", 
                 color: "text-gabon-blue", 
@@ -247,16 +247,16 @@
                 desc: "Gestion des flux de commandes nationales." 
             },
             { 
-                title: "Livraison", 
+                title: "Reservé au personnel", 
                 url: "https://newsmiley21-star.github.io/livraison.index.html", 
                 icon: "truck", 
                 color: "text-gabon-green", 
                 bg: "bg-emerald-50", 
-                desc: "Suivi des expéditions à travers le Gabon." 
+                desc: "Traitement et Suivi des expéditions à travers le Gabon." 
             },
             { 
-                title: "Personnel", 
-                url: "https://newsmiley21-star.github.io/index.html#suivi-des-gains", 
+                title: "comptabilité & management", 
+                url: "https://newsmiley21-star.github.io/suivi-des-performances-/", 
                 icon: "trending-up", 
                 color: "text-gabon-yellow", 
                 bg: "bg-amber-50", 
