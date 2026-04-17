@@ -257,10 +257,10 @@
             { 
                 title: "Reservé au personnel", 
                 url: "https://newsmiley21-star.github.io/index.html/#suivi-des-gains", 
-                icon: "delivery motorcycle", 
+                icon: "delivery-motorcycle", 
                 color: "text-gabon-yellow", 
-                bg: "bg-amber-50", 
-                desc: "Gestion des livraisons DDP customers ." 
+                bg: "bg-blue-50", 
+                desc: "Gestion des livraisons express ... " 
             },
             { 
                 title: "comptabilité & management", 
