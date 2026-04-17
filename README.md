@@ -257,7 +257,7 @@
             { 
                 title: "Reservé au personnel", 
                 url: "https://newsmiley21-star.github.io/index.html/#suivi-des-gains", 
-                icon: "delivery-motorcycle", 
+                icon: "motorbike", 
                 color: "text-gabon-yellow", 
                 bg: "bg-blue-50", 
                 desc: "Gestion des livraisons express ... " 
