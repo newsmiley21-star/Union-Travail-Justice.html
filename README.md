@@ -264,12 +264,12 @@
             },
             { 
                 title: "suivi des chauffeurs", 
-                url: ""https://www.google.com/maps/plm?hl=fr"", 
+                url: "https://www.google.com/maps/plm?hl=fr", 
                 icon: "location-pin", 
                 color: "text-gabon-yellow", 
                 bg: "bg-amber-50", 
                 desc: "Position en temps réel de la flotte." 
-            }
+            },
             { 
                 title: "comptabilité & management", 
                 url: "https://newsmiley21-star.github.io/CG241/", 
