@@ -263,6 +263,15 @@
                 desc: "Gestion des livraisons express ... " 
             },
             { 
+              title: "Suivi Chauffeurs", 
+              url: "https://www.google.com/maps/plm?hl=fr", // Lien direct vers le partage de position
+              icon: "location-pin", 
+              color: "text-gabon-white", 
+              bg: "bg-red-50", 
+              desc: "Position en temps réel de la flotte.",
+              protected: false 
+            }
+            { 
                 title: "comptabilité & management", 
                 url: "https://newsmiley21-star.github.io/CG241/", 
                 icon: "trending-up", 
