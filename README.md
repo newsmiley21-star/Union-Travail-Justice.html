@@ -267,7 +267,7 @@
                 title: "suivi des chauffeurs", 
                 url: "https://www.google.com/maps/plm?hl=fr", 
                 icon: "map-pin", 
-                color: "text-gabon-yellow", 
+                color: "text-gabon-red", 
                 bg: "bg-red-50", 
                 desc: "Position en temps réel de la flotte." 
             },
