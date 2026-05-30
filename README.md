@@ -72,7 +72,7 @@
                             green: '#36a100', // Vert drapeau
                             yellow: '#ffcf00', // Jaune drapeau
                             blue: '#007fff',   // Bleu drapeau
-                            red : '#fcd116', // (Non, c'est du jaune)
+                            red : '#cc0000', // (Non, c'est du jaune)
                         },
                         ct241: {
                             dark: '#1a1a1a'
