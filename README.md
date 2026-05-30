@@ -263,13 +263,12 @@
                 desc: "Gestion des livraisons express ... " 
             },
             { 
-              title: "Suivi Chauffeurs", 
-              url: "https://www.google.com/maps/plm?hl=fr", 
-              icon: "location-pin", 
-              color: "text-gabon-white", 
-              bg: "bg-red-50", 
-              desc: "Position en temps réel de la flotte."
-              
+                title: "suivi des chauffeurs", 
+                url: ""https://www.google.com/maps/plm?hl=fr"", 
+                icon: "location-pin", 
+                color: "text-gabon-yellow", 
+                bg: "bg-amber-50", 
+                desc: "Position en temps réel de la flotte." 
             }
             { 
                 title: "comptabilité & management", 
