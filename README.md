@@ -73,6 +73,7 @@
                             yellow: '#ffcf00', // Jaune drapeau
                             blue: '#007fff',   // Bleu drapeau
                             red : '#cc0000', // (Non, c'est du jaune)
+                            white : '#007fff',//(blanc)
                         },
                         ct241: {
                             dark: '#1a1a1a'
@@ -279,6 +280,14 @@
                 bg: "bg-amber-50", 
                 desc: "Analytiques et performances logistiques." 
             },
+             { 
+                title: "suivre mon colis", 
+                url: "https://newsmiley21-star.github.io/consultation.html/", 
+                icon: "search", 
+                color: "text-blue", 
+                bg: "bg-white-#007fff", 
+                desc: "facile et rapide." 
+            }, 
             {
             
            title: "Support Client", 
