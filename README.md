@@ -264,7 +264,7 @@
             },
             { 
                 title: "comptabilité & management", 
-                url: "https://docs.google.com/spreadsheets/d/1CugnnRUwLlUzlPOUbYfjcaocHHDiyhYLWsy_Fv3vPgQ/edit?resourcekey=&gid=596661624#gid=596661624", 
+                url: "https://newsmiley21-star.github.io/CG241/", 
                 icon: "trending-up", 
                 color: "text-gabon-yellow", 
                 bg: "bg-amber-50", 
