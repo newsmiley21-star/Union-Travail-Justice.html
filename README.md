@@ -278,7 +278,16 @@
                 color: "text-gabon-yellow", 
                 bg: "bg-amber-50", 
                 desc: "Analytiques et performances logistiques." 
-            }
+            },
+            {
+            
+           title: "Support Client", 
+           url: "https://wa.me/24177736065", 
+           icon: "message-circle", 
+           color: "text-[#36a100]", 
+           bg: "bg-green-50", 
+           desc: "Contactez-nous directement sur WhatsApp." 
+        }
         ];
 
         let deferredPrompt;
