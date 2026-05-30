@@ -235,6 +235,14 @@
                 const blob = new Blob([swCode], { type: 'text/javascript' });
                 navigator.serviceWorker.register(URL.createObjectURL(blob));
             });
+            // Exemple simplifié de votre boucle d'affichage
+item.addEventListener('click', () => {
+    if (item.action === "verifierAcces") {
+        verifierAcces(item.url);
+    } else {
+        window.location.href = item.url;
+    }
+});
         }
 
         const apps = [
@@ -262,14 +270,31 @@
                 bg: "bg-blue-50", 
                 desc: "Gestion des livraisons express ... " 
             },
-            { 
-                title: "comptabilité & management", 
-                url: "https://docs.google.com/spreadsheets/d/1CugnnRUwLlUzlPOUbYfjcaocHHDiyhYLWsy_Fv3vPgQ/edit?resourcekey=&gid=596661624#gid=596661624", 
-                icon: "trending-up", 
-                color: "text-gabon-yellow", 
-                bg: "bg-amber-50", 
-                desc: "Analytiques et performances logistiques." 
-            }
+           // Définissez votre code secret
+const CODE_SECRET = "12901564"; // Remplacez par votre code
+
+function verifierAcces(url) {
+    let saisie = prompt("Entrez le code de verrouillage pour accéder à la comptabilité :");
+    
+    if (saisie === CODE_SECRET) {
+        window.open(url, "_blank"); // Ouvre le lien si le code est correct
+    } else if (saisie !== null) {
+        alert("Code incorrect ! Accès refusé.");
+    }
+}
+
+// Votre tableau modifié
+const menuItems = [
+    { 
+        title: "comptabilité & management", 
+        url: "https://docs.google.com/spreadsheets/d/1CugnnRUwLlUzlPOUbYfjcaocHHDiyhYLWsy_Fv3vPgQ/edit?resourcekey=&gid=596661624#gid=596661624", 
+        icon: "trending-up", 
+        color: "text-gabon-yellow", 
+        bg: "bg-amber-50", 
+        desc: "Analytiques et performances logistiques.",
+        action: "verifierAcces" // On ajoute une propriété action
+    }
+];
         ];
 
         let deferredPrompt;
