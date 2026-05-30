@@ -72,6 +72,7 @@
                             green: '#36a100', // Vert drapeau
                             yellow: '#ffcf00', // Jaune drapeau
                             blue: '#007fff',   // Bleu drapeau
+                            red : '#fcd116', // (Non, c'est du jaune)
                         },
                         ct241: {
                             dark: '#1a1a1a'
@@ -265,9 +266,9 @@
             { 
                 title: "suivi des chauffeurs", 
                 url: "https://www.google.com/maps/plm?hl=fr", 
-                icon: "location-pin", 
+                icon: "map-pin", 
                 color: "text-gabon-yellow", 
-                bg: "bg-amber-50", 
+                bg: "bg-red-50", 
                 desc: "Position en temps réel de la flotte." 
             },
             { 
