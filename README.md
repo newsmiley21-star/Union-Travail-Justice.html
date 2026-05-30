@@ -264,12 +264,12 @@
             },
             { 
               title: "Suivi Chauffeurs", 
-              url: "https://www.google.com/maps/plm?hl=fr", // Lien direct vers le partage de position
+              url: "https://www.google.com/maps/plm?hl=fr", 
               icon: "location-pin", 
               color: "text-gabon-white", 
               bg: "bg-red-50", 
-              desc: "Position en temps réel de la flotte.",
-              protected: false 
+              desc: "Position en temps réel de la flotte."
+              
             }
             { 
                 title: "comptabilité & management", 
