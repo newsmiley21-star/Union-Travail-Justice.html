@@ -239,23 +239,23 @@
 
         const apps = [
             { 
-                title: "Commander", 
-                url: "https://newsmiley21-star.github.io/commandes.html", 
+                title: "Notre boutique en ligne ", 
+                url: "https://sites.google.com/view/tpsmarket241/accueil?authuser=0", 
                 icon: "shopping-bag", 
                 color: "text-gabon-blue", 
                 bg: "bg-blue-50", 
-                desc: "Gestion des flux de commandes nationales." 
+                desc: "E-commerce & commandes nationales." 
             },
             { 
-                title: "Reservé au personnel", 
-                url: "https://newsmiley21-star.github.io/livraison.index.html", 
+                title: "demander un devis", 
+                url: "https://newsmiley21-star.github.io/commandes.html", 
                 icon: "truck", 
                 color: "text-gabon-green", 
                 bg: "bg-emerald-50", 
                 desc: "Traitement et Suivi des expéditions à travers le Gabon." 
             }, 
             { 
-                title: "Reservé au personnel", 
+                title: "service livraison", 
                 url: "https://newsmiley21-star.github.io/index.html/#suivi-des-gains", 
                 icon: "motorbike", 
                 color: "text-gabon-yellow", 
@@ -264,7 +264,7 @@
             },
             { 
                 title: "comptabilité & management", 
-                url: "https://newsmiley21-star.github.io/suivi-des-performances-/", 
+                url: "https://docs.google.com/spreadsheets/d/1CugnnRUwLlUzlPOUbYfjcaocHHDiyhYLWsy_Fv3vPgQ/edit?resourcekey=&gid=596661624#gid=596661624", 
                 icon: "trending-up", 
                 color: "text-gabon-yellow", 
                 bg: "bg-amber-50", 
