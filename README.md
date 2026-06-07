@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>CT241 - Portail Logistique Gabon</title>
+    <title>X-PRESS LIVRAISON - Portail Logistique Gabon</title>
     
     <!-- Meta tags pour PWA -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="CT241 Gabon">
+    <meta name="apple-mobile-web-app-title" content="X-PRESS Gabon">
     <meta name="theme-color" content="#36a100">
     
     <!-- Favicon et Icônes -->
@@ -18,8 +18,8 @@
     <!-- Manifeste PWA amélioré -->
     <script>
         const manifest = {
-            "name": "CT241 - Logistique Gabon",
-            "short_name": "CT241",
+            "name": "X-PRESS LIVRAISON- Logistique Gabon",
+            "short_name": "X-PRESS",
             "description": "Portail logistique premium aux couleurs du Gabon",
             "start_url": "./index.html",
             "display": "standalone",
@@ -45,7 +45,7 @@
                     "sizes": "1024x1024",
                     "type": "image/png",
                     "form_factor": "wide",
-                    "label": "Dashboard CT241 Gabon"
+                    "label": "Dashboard X-PRESS Gabon"
                 }
             ]
         };
@@ -75,7 +75,7 @@
                             red : '#cc0000', // (Non, c'est du jaune)
                             white : '#007fff',//(blanc)
                         },
-                        ct241: {
+                        X-PRESS 241: {
                             dark: '#1a1a1a'
                         }
                     }
@@ -113,10 +113,10 @@
     <div id="loader" class="fixed inset-0 bg-white z-[100] flex flex-col items-center justify-center p-6 transition-opacity duration-700">
         <div class="w-full max-w-md text-center">
             <div class="mb-10 animate-pulse">
-                <img src="https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" alt="Logo CT241" class="w-36 h-36 object-contain mx-auto rounded-3xl logo-glow">
+                <img src="https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" alt="Logo X-PRESS" class="w-36 h-36 object-contain mx-auto rounded-3xl logo-glow">
             </div>
             <h2 class="text-3xl font-black mb-1 tracking-tighter">
-                <span class="text-gabon-green">CT</span><span class="text-gabon-yellow">2</span><span class="text-gabon-blue">41</span>
+                <span class="text-gabon-green">X-PR</span><span class="text-gabon-yellow">ESS</span><span class="text-gabon-blue">241</span>
             </h2>
             <p id="loading-message" class="text-slate-400 mb-8 text-xs font-bold tracking-[0.2em] uppercase">Bienvenue au Gabon</p>
             
@@ -138,7 +138,7 @@
                     <img src="https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" class="w-10 h-10 object-contain">
                 </div>
                 <div>
-                    <p class="font-black text-slate-800 text-sm">Installer CT241</p>
+                    <p class="font-black text-slate-800 text-sm">Installer X-PRESS  241</p>
                     <p class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">L'app officielle du Gabon</p>
                 </div>
             </div>
