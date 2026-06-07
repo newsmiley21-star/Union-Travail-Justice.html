@@ -8,18 +8,18 @@
     <!-- Meta tags pour PWA -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="X-PRESS LIVRAISON Gabon">
+    <meta name="apple-mobile-web-app-title" content="CT241 Gabon">
     <meta name="theme-color" content="#36a100">
     
     <!-- Favicon et Icônes -->
-    <link rel="icon" type="image/png" href="[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]">
-    <link rel="apple-touch-icon" href="[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]">
+    <link rel="icon" type="image/png" href="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png">
+    <link rel="apple-touch-icon" href="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png">
 
     <!-- Manifeste PWA amélioré -->
     <script>
         const manifest = {
-            "name": "X-PRESS LIVRAISON - Logistique Gabon",
-            "short_name": "X-PRESS LIVRAISON",
+            "name": "CT241 - Logistique Gabon",
+            "short_name": "CT241",
             "description": "Portail logistique premium aux couleurs du Gabon",
             "start_url": "./index.html",
             "display": "standalone",
@@ -27,13 +27,13 @@
             "theme_color": "#36a100",
             "icons": [
                 {
-                    "src": "[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]",
+                    "src": "https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png",
                     "sizes": "192x192",
                     "type": "image/png",
                     "purpose": "any maskable"
                 },
                 {
-                    "src": "[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]",
+                    "src": "https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any"
@@ -41,11 +41,11 @@
             ],
             "screenshots": [
                 {
-                    "src": "[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]",
+                    "src": "https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png",
                     "sizes": "1024x1024",
                     "type": "image/png",
                     "form_factor": "wide",
-                    "label": "Dashboard X-PRESS LIVRAISON Gabon"
+                    "label": "Dashboard CT241 Gabon"
                 }
             ]
         };
@@ -75,7 +75,7 @@
                             red : '#cc0000', // (Non, c'est du jaune)
                             white : '#007fff',//(blanc)
                         },
-                        X-PRESS GA: {
+                        ct241: {
                             dark: '#1a1a1a'
                         }
                     }
@@ -113,10 +113,10 @@
     <div id="loader" class="fixed inset-0 bg-white z-[100] flex flex-col items-center justify-center p-6 transition-opacity duration-700">
         <div class="w-full max-w-md text-center">
             <div class="mb-10 animate-pulse">
-                <img src="[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]" alt="Logo x-press livraison" class="w-36 h-36 object-contain mx-auto rounded-3xl logo-glow">
+                <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" alt="Logo CT241" class="w-36 h-36 object-contain mx-auto rounded-3xl logo-glow">
             </div>
             <h2 class="text-3xl font-black mb-1 tracking-tighter">
-                <span class="text-gabon-green">X-PR</span><span class="text-gabon-yellow">ESS</span><span class="text-gabon-blue">  livraison</span>
+                <span class="text-gabon-green">CT</span><span class="text-gabon-yellow">2</span><span class="text-gabon-blue">41</span>
             </h2>
             <p id="loading-message" class="text-slate-400 mb-8 text-xs font-bold tracking-[0.2em] uppercase">Bienvenue au Gabon</p>
             
@@ -135,10 +135,10 @@
         <div class="bg-white p-4 rounded-[1.4rem] flex items-center justify-between">
             <div class="flex items-center gap-4">
                 <div class="bg-slate-50 p-1.5 rounded-xl border border-slate-100">
-                    <img src="[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]" class="w-10 h-10 object-contain">
+                    <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" class="w-10 h-10 object-contain">
                 </div>
                 <div>
-                    <p class="font-black text-slate-800 text-sm">Installer x-press livraison</p>
+                    <p class="font-black text-slate-800 text-sm">Installer CT241</p>
                     <p class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">L'app officielle du Gabon</p>
                 </div>
             </div>
@@ -153,7 +153,7 @@
         <div class="bg-white rounded-[3rem] max-w-lg w-full shadow-2xl overflow-hidden scale-95 transition-transform duration-500">
             <div class="p-10 text-center">
                 <div class="mb-6 relative inline-block">
-                    <img src="[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]" class="w-24 h-24 object-contain mx-auto rounded-2xl logo-glow relative z-10">
+                    <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" class="w-24 h-24 object-contain mx-auto rounded-2xl logo-glow relative z-10">
                     <div class="absolute -inset-2 gabon-gradient blur-xl opacity-20"></div>
                 </div>
                 
@@ -188,22 +188,22 @@
             <div class="max-w-6xl mx-auto flex items-center justify-between">
                 <div class="flex items-center gap-4">
                     <div class="p-1 gabon-gradient rounded-xl">
-                        <img src="[url=https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png[/img][/url]" alt="Logo" class="w-10 h-10 object-contain rounded-lg bg-white p-0.5">
+                        <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" alt="Logo" class="w-10 h-10 object-contain rounded-lg bg-white p-0.5">
                     </div>
                     <h1 class="text-xl font-black tracking-tighter">
-                        <span class="text-gabon-green">X-PR</span><span class="text-gabon-yellow">ESS</span><span class="text-gabon-blue">...LIVRAISON</span>
+                        <span class="text-gabon-green">CT</span><span class="text-gabon-yellow">2</span><span class="text-gabon-blue">41</span>
                     </h1>
                 </div>
                 <div class="flex items-center gap-2">
                     <span class="w-2 h-2 rounded-full bg-gabon-green animate-pulse"></span>
-                    <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">ACTIF...</span>
+                    <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Connecté</span>
                 </div>
             </div>
         </header>
 
         <main class="max-w-6xl mx-auto px-6 pb-28 animate-fade-in">
             <div class="mb-12">
-                <h2 class="text-3xl font-black text-slate-900 tracking-tight mb-2">Tableau de bord<span class="text-gabon-green">Premium</span></h2>
+                <h2 class="text-3xl font-black text-slate-900 tracking-tight mb-2">Services <span class="text-gabon-green">Premium</span></h2>
                 <div class="h-1 w-20 gabon-gradient rounded-full"></div>
             </div>
 
