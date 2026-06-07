@@ -12,8 +12,8 @@
     <meta name="theme-color" content="#36a100">
     
     <!-- Favicon et Icônes -->
-    <link rel="icon" type="image/png" href="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png">
-    <link rel="apple-touch-icon" href="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png">
+    <link rel="icon" type="image/png" href="https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png">
+    <link rel="apple-touch-icon" href="https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png">
 
     <!-- Manifeste PWA amélioré -->
     <script>
@@ -27,13 +27,13 @@
             "theme_color": "#36a100",
             "icons": [
                 {
-                    "src": "https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png",
+                    "src": "https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png",
                     "sizes": "192x192",
                     "type": "image/png",
                     "purpose": "any maskable"
                 },
                 {
-                    "src": "https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png",
+                    "src": "https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png",
                     "sizes": "512x512",
                     "type": "image/png",
                     "purpose": "any"
@@ -41,7 +41,7 @@
             ],
             "screenshots": [
                 {
-                    "src": "https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png",
+                    "src": "https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png",
                     "sizes": "1024x1024",
                     "type": "image/png",
                     "form_factor": "wide",
@@ -113,10 +113,10 @@
     <div id="loader" class="fixed inset-0 bg-white z-[100] flex flex-col items-center justify-center p-6 transition-opacity duration-700">
         <div class="w-full max-w-md text-center">
             <div class="mb-10 animate-pulse">
-                <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" alt="Logo CT241" class="w-36 h-36 object-contain mx-auto rounded-3xl logo-glow">
+                <img src="https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" alt="Logo x-press livraison" class="w-36 h-36 object-contain mx-auto rounded-3xl logo-glow">
             </div>
             <h2 class="text-3xl font-black mb-1 tracking-tighter">
-                <span class="text-gabon-green">CT</span><span class="text-gabon-yellow">2</span><span class="text-gabon-blue">41</span>
+                <span class="text-gabon-green">x-</span><span class="text-gabon-yellow">press</span><span class="text-gabon-blue">livraison</span>
             </h2>
             <p id="loading-message" class="text-slate-400 mb-8 text-xs font-bold tracking-[0.2em] uppercase">Bienvenue au Gabon</p>
             
@@ -135,10 +135,10 @@
         <div class="bg-white p-4 rounded-[1.4rem] flex items-center justify-between">
             <div class="flex items-center gap-4">
                 <div class="bg-slate-50 p-1.5 rounded-xl border border-slate-100">
-                    <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" class="w-10 h-10 object-contain">
+                    <img src="https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" class="w-10 h-10 object-contain">
                 </div>
                 <div>
-                    <p class="font-black text-slate-800 text-sm">Installer CT241</p>
+                    <p class="font-black text-slate-800 text-sm">Installer x-press livraison</p>
                     <p class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">L'app officielle du Gabon</p>
                 </div>
             </div>
@@ -153,7 +153,7 @@
         <div class="bg-white rounded-[3rem] max-w-lg w-full shadow-2xl overflow-hidden scale-95 transition-transform duration-500">
             <div class="p-10 text-center">
                 <div class="mb-6 relative inline-block">
-                    <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" class="w-24 h-24 object-contain mx-auto rounded-2xl logo-glow relative z-10">
+                    <img src="https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" class="w-24 h-24 object-contain mx-auto rounded-2xl logo-glow relative z-10">
                     <div class="absolute -inset-2 gabon-gradient blur-xl opacity-20"></div>
                 </div>
                 
@@ -188,7 +188,7 @@
             <div class="max-w-6xl mx-auto flex items-center justify-between">
                 <div class="flex items-center gap-4">
                     <div class="p-1 gabon-gradient rounded-xl">
-                        <img src="https://i.ibb.co/xKY76DgR/Gemini-Generated-Image-1pvtp31pvtp31pvt-1.png" alt="Logo" class="w-10 h-10 object-contain rounded-lg bg-white p-0.5">
+                        <img src="https://ibb.co/8n4J4rcW][img]https://i.ibb.co/KczYz2wM/Gemini-Generated-Image-cac734cac734cac7.png" alt="Logo" class="w-10 h-10 object-contain rounded-lg bg-white p-0.5">
                     </div>
                     <h1 class="text-xl font-black tracking-tighter">
                         <span class="text-gabon-green">CT</span><span class="text-gabon-yellow">2</span><span class="text-gabon-blue">41</span>
